@@ -9,8 +9,13 @@ contryUser = "India"
 
 
 
-console.table([username,userPassword,addUser,contryUser]);
+console.table([addUser,contryUser]);
     
-    
+username = 'dileep';
+userPassword = 333444
+addUser = "abudhabi"
 
-    
+contryUser = "dubai"
+
+console.table([
+    addUser,contryUser]);
