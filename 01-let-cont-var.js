@@ -9,8 +9,8 @@ contryUser = "India"
 
 
 
-console.table(username,
-    userPassword,
-    addUser,
+console.table([username,userPassword,addUser,contryUser]);
+    
+    
 
-    contryUser)
+    
